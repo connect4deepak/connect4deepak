@@ -1,14 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Deepak%20Kumar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20SRE%20%E2%80%A2%20AI%20%26%20MLOps%20Engineer&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=750&lines=7%2B+Years+Engineering+Resilient+Cloud+Infrastructure+%F0%9F%9A%80;DevSecOps+%7C+GitOps+%7C+MLOps+%7C+AIOps+%7C+GenAI;MSc+Artificial+Intelligence+%E2%80%94+Dublin+Business+School+%F0%9F%87%AE%F0%9F%87%AA;Bridging+Enterprise+DevOps+%2B+Cutting-Edge+AI+Engineering)](https://git.io/typing-svg)
+<!-- Dynamic Header with Typing Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Deepak%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20%E2%9C%A6%20SRE%20%E2%9C%A6%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=7%2B+Years+Building+Resilient+Cloud+Infrastructure;DevSecOps+%7C+GitOps+%7C+MLOps+%7C+AIOps;MSc+Artificial+Intelligence+%40+Dublin+Business+School;Building+the+Future+with+AI+%2B+DevOps)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/connect4deepak)&nbsp;
-[![Location](https://img.shields.io/badge/Dublin%2C_Ireland-%F0%9F%87%AE%F0%9F%87%AA-009A44?style=for-the-badge)](https://www.google.com/maps/place/Dublin,+Ireland)&nbsp;
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Opportunities-FF6B35?style=for-the-badge)](https://linkedin.com/in/connect4deepak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/connect4deepak)
+[![Location](https://img.shields.io/badge/📍_Dublin,_Ireland-009A44?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Dublin)
+[![Open to Work](https://img.shields.io/badge/Open_to_Opportunities-FF6B35?style=for-the-badge&logo=handshake&logoColor=white)](#)
 
 <br/>
 
@@ -24,293 +25,244 @@
 
 </div>
 
-<br/>
-
 ---
 
-<div align="center">
-<h2>⚡ Impact at a Glance</h2>
-</div>
-
-<div align="center">
-
-| 🚀 **7+** | 🏢 **3** | 👥 **5** | ⬇️ **30%** | ⬇️ **35%** | ⚡ **40%** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Years Experience | Global Enterprises | Engineers Led | Dev Cycle Time ↓ | Deployment Failures ↓ | Ops Task Time ↓ |
-
-</div>
-
----
-
-## 🧑‍💻 About Me
+## 🧠 About Me
 
 ```yaml
-# whoami
-name       : Deepak Kumar
-title      : DevOps Engineer → AI/ML Engineer (Converging)
-location   : Dublin, Ireland 🇮🇪
-languages  : [English, Hindi]
-
+name: Deepak Kumar
+role: DevOps Engineer → AI/ML Engineer (Converging)
+location: Dublin, Ireland 🇮🇪
 education:
-  current  : MSc Artificial Intelligence — Dublin Business School, Ireland
-  previous : MCA (Masters in Computer Applications) — AKTU University, India
+  - degree: MSc Artificial Intelligence
+    institution: Dublin Business School, Ireland
+    status: Currently Enrolled
+  - degree: Masters in Computer Applications (MCA)
+    institution: AKTU University, India
 
-experience : 7+ years across European enterprises, global teams & Fortune-level clients
-philosophy : "Automate everything · Secure by design · Build for humans with AI"
+experience: 7+ years in DevOps, SRE & Cloud Engineering
+focus_areas:
+  - DevSecOps & GitOps
+  - AIOps & MLOps
+  - AI Agents & Agentic Workflows
+  - Generative AI & LLM Engineering
+  - Cloud Infrastructure at Scale
 
-currently_learning:
-  - Agentic AI & Multi-Agent Systems
-  - LLM Engineering & Prompt Engineering
-  - Model Context Protocol (MCP) Servers
-  - MLOps & AIOps at scale
-  - RAG · Graph AI · Reinforcement Learning
+philosophy: "Automate everything. Secure by design. AI-first mindset."
+languages: [English, Hindi]
 ```
 
 ---
 
-## 🤖 AI & Machine Learning
+## 🎯 What I'm Building Towards
+
+<div align="center">
+
+| 🤖 AI Domain | ☁️ DevOps Domain | 🔒 Security Domain |
+|:---:|:---:|:---:|
+| LLM Agents & MCP Servers | Zero-downtime CI/CD | DevSecOps Pipelines |
+| RAG & GraphAI Systems | Infrastructure as Code | HashiCorp Vault |
+| Generative AI Applications | Kubernetes Orchestration | Shift-Left Security |
+| Reinforcement Learning | GitOps at Scale | Compliance Automation |
+| NLP & Recommender Systems | Cloud-Native Architecture | Secrets Management |
+
+</div>
+
+---
+
+## 🤖 AI & Machine Learning Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
 
 </div>
 
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-
-**🧬 Machine Learning**
-- Supervised & Unsupervised Learning
-- Ensemble Methods & Feature Engineering
-- Statistical Modelling & EDA
-
-**🔮 Deep Learning**
-- Neural Networks, CNNs, RNNs
-- Transformers & Attention Mechanisms
-- Transfer Learning & Fine-tuning
-
-**🎮 Reinforcement Learning**
-- Policy Optimization & Q-Learning
-- Agent-Environment Interaction Loops
-- RLHF (Reinforcement Learning from Human Feedback)
-
-**💬 Natural Language Processing**
-- Text Classification, NER, Summarization
-- Sentiment Analysis & Embeddings
-- LLM Pipelines & RAG Architectures
-
-</td>
-<td width="50%">
-
-**✨ Generative AI**
-- LLM Engineering & Prompt Engineering
-- RAG Pipelines & Vector Databases
-- Fine-tuning & Model Evaluation
-
-**🕸️ Graph AI**
-- Knowledge Graphs & Graph Neural Networks
-- Graph-based Reasoning Systems
-- Linked Data & Neo4j
-
-**🤝 Agentic AI**
-- AI Agents & Multi-Agent Systems
-- Agentic Workflows with Tool Use
-- Model Context Protocol (MCP) Servers
-
-**🛍️ Recommender Systems & Data Analysis**
-- Collaborative & Content-Based Filtering
-- Hybrid Models at Scale
-- Pandas, NumPy, Data Pipelines
-
-</td>
-</tr>
-</table>
+```
+🧬 Machine Learning      →  Supervised, Unsupervised, Ensemble Methods, Feature Engineering
+🔮 Deep Learning         →  Neural Networks, CNNs, RNNs, Transformers, Attention Mechanisms
+🎮 Reinforcement Learning→  Policy Optimization, Q-Learning, Agent-Environment Loops
+💬 NLP                   →  Text Classification, NER, Summarization, Sentiment Analysis
+🤖 Generative AI         →  LLMs, RAG Pipelines, Prompt Engineering, Fine-tuning
+🕸️  Graph AI             →  Knowledge Graphs, Graph Neural Networks, Neo4j
+📊 Data Analysis         →  Pandas, NumPy, Statistical Modeling, EDA
+🛍️  Recommender Systems  →  Collaborative Filtering, Content-Based, Hybrid Models
+🤝 AI Agents             →  Agentic Workflows, Tool Use, Multi-Agent Systems
+🔌 MCP Servers           →  Model Context Protocol, Agent Tool Integration
+```
 
 ---
 
-## ☁️ DevOps, Cloud & SRE Engineering
+## ☁️ DevOps & Cloud Engineering
 
 <div align="center">
 
-### 🔁 CI/CD · GitOps · Automation
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Kaniko](https://img.shields.io/badge/Kaniko-326CE5?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-```yaml
-# Enterprise-Grade DevSecOps Pipeline I Architect & Ship
-name: DevSecOps · Build · Deploy
-on: [push, pull_request]
-jobs:
-  🔍 secret-scan       : Gitleaks — detect leaked credentials before they reach prod
-  🛡️ sast-scan         : Semgrep + SonarQube — static analysis, zero tolerance policy
-  📦 build             : Kaniko — rootless container builds inside Kubernetes
-  🔬 trivy-scan        : CVE scanning on images before registry push
-  📋 sbom              : CycloneDX SBOM generation for supply chain compliance
-  🚀 deploy-staging    : Helm chart deploy → Kubernetes staging namespace
-  ✅ smoke-tests       : Automated post-deploy health & regression validation
-  🏭 deploy-production : Zero-downtime blue/green or canary rollout
-  📢 notify            : Mattermost/Slack alerts with full pipeline context
-```
-
-> **GitHub Actions depth:** Reusable Workflows · OIDC Keyless Cloud Auth · Matrix Builds · Self-hosted Runners · Composite Actions · Scoped Token Hardening · Dependency Review on PRs · Workflow Telemetry via Prometheus + Grafana
-
-<br/>
-
-<div align="center">
-
-### 🐳 Container Orchestration
-
+### Container & Orchestration
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 
-### 🏗️ Infrastructure as Code
+### CI/CD & GitOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
+### Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
-![Consul](https://img.shields.io/badge/Consul-F24C53?style=for-the-badge&logo=consul&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 
-### ☁️ Cloud & Observability
-
+### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-### 🔐 Security & Code Quality
-
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
-![Gitleaks](https://img.shields.io/badge/Gitleaks-FF4154?style=for-the-badge&logo=git&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-20B2AA?style=for-the-badge)
-![SBOM](https://img.shields.io/badge/SBOM-CycloneDX-FF8C00?style=for-the-badge)
 
 </div>
 
 ---
 
-## 💼 Career Timeline
-
-<details open>
-<summary><b>🟠 Orange Business Services &nbsp;·&nbsp; Sr. DevOps Engineer &nbsp;·&nbsp; Aug 2022 – Jan 2026</b></summary>
-<br/>
-
-> *Global telecom enterprise · France Télécom Group · European-scale infrastructure*
-
-- ⚙️ Architected **zero-downtime CI/CD pipelines** for **SecretsAAS** — enterprise secret management platform on HashiCorp Vault, serving global Orange entities
-- 👥 **Led a team of 5 DevOps engineers**, providing technical direction & mentoring → **30% reduction in development cycle time**
-- 🔐 Championed **DevSecOps**: security gates embedded at every pipeline stage (SAST, image scanning, secrets detection, compliance checks)
-- 🏗️ Automated infrastructure provisioning with **Terraform + Ansible** — full IaC coverage with documentation and test suites
-- ☸️ Built **Helm charts**, deployed containerised workloads across **Kubernetes + Rancher** on EU private cloud (Flexible Engine, Cloud Avenue)
-- 📊 Implemented **Prometheus + Grafana** full-stack observability with proactive alerting; **Kafka** log streaming to S3
-- 🤝 Established Jira, Confluence & Mattermost workflows enabling seamless cross-department incident resolution globally
-- ⚡ Reduced one-off and routine operational tasks by **40%** through targeted Bash automation
-
-🏅 **Flash Award — Best Performer of The Year**
-
-</details>
-
-<details>
-<summary><b>🔵 NEC Corporation India &nbsp;·&nbsp; Sr. DevOps Engineer &nbsp;·&nbsp; Sep 2021 – Aug 2022</b></summary>
-<br/>
-
-> *Japanese multinational · Global IT & infrastructure leader · Enterprise engineering culture*
-
-- ☸️ Managed production **Kubernetes clusters** via Rancher for Exastro & Cassiopeia IaC platforms
-- 🔬 Deployed **Gitleaks, Trivy, SonarQube** — shift-left security practice reducing vulnerability exposure across containerised workloads
-- 📉 Reduced deployment failures by **35%** through CI/CD standardisation and cross-functional process alignment
-- 🔄 Automated configuration & deployment workflows with **Ansible** across heterogeneous multi-environment infrastructure
-
-🏅 **Champion Award — Outstanding Performer**
-
-</details>
-
-<details>
-<summary><b>⚙️ Avis e Solution &nbsp;·&nbsp; System Engineer &nbsp;·&nbsp; Oct 2018 – Sep 2021</b></summary>
-<br/>
-
-- 🔧 Built and maintained **Jenkins CI/CD pipelines** for NGUCC and Contaque products
-- 🐧 Configured, optimised and hardened **Linux servers** (CentOS, Ubuntu, RHEL) for production workloads
-- 💻 Managed **VMware ESXi** virtualisation environment for resource maximisation, from POC to production
-
-</details>
-
----
-
-## 📜 Certifications & Education
-
-<div align="center">
-
-|  | Credential | Issuer |
-|:---:|:---|:---:|
-| 🎓 | **MSc Artificial Intelligence** *(In Progress)* | Dublin Business School, Ireland |
-| ☁️ | **AWS Certified Solutions Architect** | Amazon Web Services |
-| 🏗️ | **HashiCorp Certified Terraform Associate** | HashiCorp |
-| 🎓 | **MCA — Masters in Computer Applications** | AKTU University, India |
-| 🌐 | **Diploma in Hardware, Networking & Cloud** | Jetking |
-
-</div>
-
----
-
-## 🌍 Ireland & Europe — Ready to Contribute
+## 🏆 Career Highlights
 
 <div align="center">
 
 ```
-📍 Based in Dublin, Ireland          →  Available for on-site, hybrid & EU-remote roles
-🇪🇺 European Client Delivery         →  Direct experience working with EU enterprise teams
-🔒 GDPR-Compliant Infrastructure    →  Built & maintained EU-sovereign cloud workloads
-🌐 EU Private Cloud Experience      →  Flexible Engine & Cloud Avenue (Orange, France)
-🤝 Global Teams                     →  Cross-cultural collaboration across timezones
-🎓 Irish-Educated                   →  MSc AI — Dublin Business School
+┌─────────────────────────────────────────────────────────────────┐
+│                    IMPACT AT A GLANCE                           │
+├─────────────────┬───────────────────────────────────────────────┤
+│  30%            │  Reduction in development cycle time          │
+│  35%            │  Reduction in deployment failures             │
+│  40%            │  Reduction in operational task time (Bash)    │
+│  7+ Years       │  Enterprise DevOps & Cloud experience         │
+│  5 Engineers    │  Team led at Orange Business Services         │
+└─────────────────┴───────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🛠️ Full Technical Stack
+## 💼 Professional Journey
 
 <details>
-<summary><b>▶ Click to expand complete skills matrix</b></summary>
-<br/>
+<summary><b>🟠 Orange Business Services — Sr. DevOps Engineer (Aug 2022 – Jan 2026)</b></summary>
+
+- Designed **zero-downtime CI/CD pipelines** for SecretsAAS, a global secrets management platform
+- **Led a team of 5 DevOps engineers**, delivering 30% faster development cycles
+- Embedded **DevSecOps** into every pipeline stage — security as code, not an afterthought
+- Automated infrastructure provisioning via **Terraform + Ansible** with full IaC test coverage
+- Built and deployed **Helm charts** across Kubernetes clusters on Rancher & private cloud
+- Implemented **HashiCorp Vault** for enterprise secrets management at Orange scale
+- Drove **Prometheus + Grafana** observability with proactive alerting and incident automation
+- Migrated legacy applications to **Flexible Engine & Cloud Avenue** (European private cloud)
+
+🏅 *Flash Award — Best Performer of the Year*
+
+</details>
+
+<details>
+<summary><b>🔵 NEC Corporation India — Sr. DevOps Engineer (Sep 2021 – Aug 2022)</b></summary>
+
+- Managed production **Kubernetes clusters** via Rancher for Exastro and Cassiopeia projects
+- Deployed **Gitleaks, Trivy, SonarQube** for shift-left security in containerized environments
+- Reduced deployment failures by **35%** through cross-functional CI/CD standardization
+- Automated configuration management with **Ansible** across heterogeneous environments
+
+🏅 *Champion Award — Outstanding Performer*
+
+</details>
+
+<details>
+<summary><b>⚙️ Avis e Solution — System Engineer (Oct 2018 – Sep 2021)</b></summary>
+
+- Built **CI/CD pipelines with Jenkins** for NGUCC and Contaque projects
+- Configured and hardened **Linux servers** (CentOS, Ubuntu, RHEL) for production workloads
+- Managed **VMware ESXi** virtualization for resource optimization and scalability
+
+</details>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Domain |
+|:---|:---:|:---:|
+| ☁️ AWS Certified Solutions Architect | Amazon Web Services | Cloud |
+| 🏗️ HashiCorp Certified Terraform Associate | HashiCorp | IaC |
+| 🌐 Diploma in Hardware, Networking & Cloud | Jetking | Infrastructure |
+
+</div>
+
+---
+
+## 🌍 Europe & Ireland — Ready to Contribute
+
+- 📍 **Based in Dublin, Ireland** — actively contributing to the Irish tech ecosystem
+- 🇪🇺 Hands-on experience with **European clients and GDPR-compliant infrastructure**
+- 🏦 Worked with Orange Business Services across European delivery teams
+- 🌐 Familiar with **EU data sovereignty**, private cloud mandates (Flexible Engine, Cloud Avenue)
+- 🤝 Strong cross-cultural collaboration experience across global distributed teams
+
+---
+
+## 📚 Currently Exploring
+
+```python
+current_studies = {
+    "program": "MSc Artificial Intelligence @ Dublin Business School",
+    "focus": [
+        "Large Language Models (LLMs) & Prompt Engineering",
+        "Agentic AI & Multi-Agent Systems",
+        "Model Context Protocol (MCP) Servers",
+        "RAG Pipelines & Vector Databases",
+        "Graph AI & Knowledge Representation",
+        "Reinforcement Learning from Human Feedback (RLHF)",
+        "AI for MLOps & AIOps Convergence",
+        "Recommender Systems at Scale",
+        "Natural Language Processing (NLP)",
+        "Generative AI Application Development"
+    ],
+    "goal": "Bridge enterprise DevOps expertise with cutting-edge AI engineering"
+}
+```
+
+---
+
+## 🛠️ Full Technical Arsenal
+
+<details>
+<summary><b>Click to expand complete skills matrix</b></summary>
 
 | Category | Technologies |
 |:---|:---|
-| **OS & Systems** | Alpine · CentOS · RHEL · Ubuntu |
-| **CI/CD & GitOps** | GitHub Actions · GitLab CI · Jenkins · ArgoCD · Kaniko · Maven |
-| **Containers** | Docker · Kubernetes · Helm · Rancher · OpenShift |
-| **IaC & Config Management** | Terraform · Ansible |
-| **Secrets & Identity** | HashiCorp Vault · Passbolt · Consul |
-| **Cloud Platforms** | AWS · Flexible Engine · Cloud Avenue · VMware ESXi |
-| **Monitoring & Logging** | Prometheus · Grafana · ELK Stack · Kafka |
-| **Security & Quality** | Gitleaks · Trivy · SBOM · SonarQube · Semgrep · TestSSL |
-| **Scripting & APIs** | Bash/Shell · Python · HCL · Postman |
-| **Version Control** | Git · GitLab · GitHub |
+| **OS & Administration** | Alpine, CentOS, RHEL, Ubuntu |
+| **Agile & Collaboration** | Scrum, Kanban, SAFe, Jira, Confluence, Slack, Mattermost |
+| **Scripting & APIs** | Bash/Shell, Python, HCL, Postman |
+| **Version Control** | Git, GitLab, GitHub |
+| **CI/CD** | GitHub Actions, GitLab CI, Jenkins, Kaniko, Maven |
+| **Container Orchestration** | Docker, Kubernetes, Helm, Rancher, OpenShift |
+| **Secrets Management** | HashiCorp Vault, Passbolt, Consul |
+| **IaC** | Terraform, Ansible |
+| **Artifact Registries** | Docker Hub, GitLab Container Registry |
+| **Monitoring** | Prometheus, Grafana, ELK Stack, Kafka |
 | **Databases** | MySQL |
-| **Agile & Collaboration** | Scrum · Kanban · SAFe · Jira · Confluence · Mattermost |
-| **AI/ML Frameworks** | TensorFlow · PyTorch · scikit-learn · LangChain · HuggingFace · OpenAI |
-| **Registries** | Docker Hub · GitLab Container Registry |
+| **Security & Quality** | Gitleaks, Trivy, SBOM, SonarQube, Semgrep, TestSSL |
+| **Cloud & Virtualization** | AWS, VMware ESXi, Flexible Engine, Cloud Avenue |
+| **AI/ML** | Python, TensorFlow, PyTorch, scikit-learn, LangChain, HuggingFace |
 
 </details>
 
@@ -318,21 +270,16 @@ jobs:
 
 <div align="center">
 
-## 💬 Let's Build Something Exceptional
+### 💬 Let's Connect
 
-*I bring 7+ years of enterprise infrastructure engineering and a growing AI skillset.*
-*Actively seeking roles where **DevOps meets intelligence** — in Ireland, across Europe, or globally remote.*
+*I'm actively looking for roles at the intersection of **DevOps, MLOps, and AI Engineering** — particularly in Ireland and Europe.*
 
-<br/>
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/connect4deepak)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/connect4deepak)
 
 <br/>
 
-> *"Infrastructure should be invisible. AI should be impactful. Security should be non-negotiable."*
+> *"The best infrastructure is the one you never have to think about — because it's automated, secured, and self-healing."*
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
