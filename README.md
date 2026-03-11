@@ -1,455 +1,303 @@
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--         DEEPAK KUMAR — GITHUB PROFILE  //  PLAYER ONE           -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=%E2%96%BA%20PLAYER%20ONE%20%E2%97%84&fontSize=90&fontColor=ff2d55&fontAlignY=38&desc=DEEPAK%20KUMAR%20%2F%2F%20SR.%20DEVOPS%20%7C%20SRE%20%7C%20CLOUD%20ARCHITECT&descAlignY=58&descColor=00e5ff&animation=fadeIn&stroke=ff2d55&strokeWidth=2"/>
+<!-- Dynamic Header with Typing Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Deepak%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20%E2%9C%A6%20SRE%20%E2%9C%A6%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1800&pause=600&color=FF2D55&center=true&vCenter=true&width=900&height=40&lines=LOADING+PLAYER+PROFILE...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;SELECT+YOUR+DIFFICULTY%3A+%5B+KUBERNETES+%5D+%5B+TERRAFORM+%5D+%5B+VAULT+%5D;ACHIEVEMENT+UNLOCKED%3A+7%2B+YEARS+XP+%F0%9F%8F%86;PRESS+START+TO+VIEW+FULL+PROFILE...;NEW+QUEST%3A+AIOPS+%26+MLOPS+%E2%86%92+IN+PROGRESS" />
-
-<br/><br/>
-
-<!-- HUD BADGES -->
-[![LinkedIn](https://img.shields.io/badge/🎮_CONNECT-LinkedIn-ff2d55?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/connect4deepak)
-[![AWS](https://img.shields.io/badge/🏆_CERTIFIED-AWS_SAA-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d0d0d)](#)
-[![Terraform](https://img.shields.io/badge/🏆_CERTIFIED-Terraform_Assoc-844FBA?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0d0d0d)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=7%2B+Years+Building+Resilient+Cloud+Infrastructure;DevSecOps+%7C+GitOps+%7C+MLOps+%7C+AIOps;MSc+Artificial+Intelligence+%40+Dublin+Business+School;Building+the+Future+with+AI+%2B+DevOps)](https://git.io/typing-svg)
 
 <br/>
 
-![XP](https://img.shields.io/badge/⚡_XP-7500_pts_(7%2B_yrs)-ff2d55?style=for-the-badge&labelColor=0d0d0d)
-![Level](https://img.shields.io/badge/🎖️_LEVEL-SENIOR_ENGINEER-00e5ff?style=for-the-badge&labelColor=0d0d0d)
-![Server](https://img.shields.io/badge/🌍_SERVER-Ireland_🇮🇪-9b59b6?style=for-the-badge&labelColor=0d0d0d)
-![Status](https://img.shields.io/badge/🟢_STATUS-RECRUITING_OPEN-00ff88?style=for-the-badge&labelColor=0d0d0d)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/connect4deepak)
+[![Location](https://img.shields.io/badge/📍_Dublin,_Ireland-009A44?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Dublin)
+[![Open to Work](https://img.shields.io/badge/Open_to_Opportunities-FF6B35?style=for-the-badge&logo=handshake&logoColor=white)](#)
 
 </div>
 
 ---
+
+## 🧠 About Me
+
+```yaml
+name: Deepak Kumar
+role: DevOps Engineer → AI/ML Engineer (Converging)
+location: Dublin, Ireland 🇮🇪
+education:
+  - degree: MSc Artificial Intelligence
+    institution: Dublin Business School, Ireland
+    status: Currently Enrolled
+  - degree: Masters in Computer Applications (MCA)
+    institution: AKTU University, India
+
+experience: 7+ years in DevOps, SRE & Cloud Engineering
+focus_areas:
+  - DevSecOps & GitOps
+  - AIOps & MLOps
+  - AI Agents & Agentic Workflows
+  - Generative AI & LLM Engineering
+  - Cloud Infrastructure at Scale
+
+philosophy: "Automate everything. Secure by design. AI-first mindset."
+languages: [English, Hindi]
+```
+
+---
+
+## 🎯 What I'm Building Towards
+
+<div align="center">
+
+| 🤖 AI Domain | ☁️ DevOps Domain | 🔒 Security Domain |
+|:---:|:---:|:---:|
+| LLM Agents & MCP Servers | Zero-downtime CI/CD | DevSecOps Pipelines |
+| RAG & GraphAI Systems | Infrastructure as Code | HashiCorp Vault |
+| Generative AI Applications | Kubernetes Orchestration | Shift-Left Security |
+| Reinforcement Learning | GitOps at Scale | Compliance Automation |
+| NLP & Recommender Systems | Cloud-Native Architecture | Secrets Management |
+
+</div>
+
+---
+
+## 🤖 AI & Machine Learning Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
+
+</div>
+
+```
+🧬 Machine Learning      →  Supervised, Unsupervised, Ensemble Methods, Feature Engineering
+🔮 Deep Learning         →  Neural Networks, CNNs, RNNs, Transformers, Attention Mechanisms
+🎮 Reinforcement Learning→  Policy Optimization, Q-Learning, Agent-Environment Loops
+💬 NLP                   →  Text Classification, NER, Summarization, Sentiment Analysis
+🤖 Generative AI         →  LLMs, RAG Pipelines, Prompt Engineering, Fine-tuning
+🕸️  Graph AI             →  Knowledge Graphs, Graph Neural Networks, Neo4j
+📊 Data Analysis         →  Pandas, NumPy, Statistical Modeling, EDA
+🛍️  Recommender Systems  →  Collaborative Filtering, Content-Based, Hybrid Models
+🤝 AI Agents             →  Agentic Workflows, Tool Use, Multi-Agent Systems
+🔌 MCP Servers           →  Model Context Protocol, Agent Tool Integration
+```
+
+---
+
+## ☁️ DevOps & Cloud Engineering
+
+<div align="center">
+
+### Container & Orchestration
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+
+### CI/CD & GitOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+### Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+</div>
+
+---
+
+## ⚙️ GitHub Actions — Automation at Scale
+
+I design **enterprise-grade GitHub Actions workflows** for complex CI/CD pipelines:
+
+```yaml
+# Sample: Multi-stage DevSecOps Pipeline Pattern I architect
+name: DevSecOps Pipeline
+on: [push, pull_request]
+jobs:
+  security-scan:     # Gitleaks, Trivy, Semgrep, SonarQube
+  build-and-test:    # Kaniko image build, unit + integration tests
+  sbom-generation:   # Software Bill of Materials for compliance
+  deploy-staging:    # Helm chart deploy to Kubernetes (staging)
+  smoke-tests:       # Automated post-deploy validation
+  deploy-production: # Zero-downtime blue/green or canary rollout
+  notify:            # Slack/Mattermost alerts on failure/success
+```
+
+**GitHub Actions Expertise:**
+- 🔄 **Reusable Workflows** — DRY pipeline architecture across repositories
+- 🔐 **OIDC Authentication** — Keyless cloud auth (AWS, GCP, Azure)
+- 🛡️ **Security Hardening** — `permissions: read-only` by default, scoped tokens
+- 📦 **Matrix Builds** — Multi-platform, multi-version testing grids
+- 🚀 **Self-hosted Runners** — On-premise & cloud hybrid execution
+- 🧩 **Composite Actions** — Modular, testable action libraries
+- 🔍 **Dependency Review** — Automated vulnerability scanning on PRs
+- 📊 **Workflow Telemetry** — Custom dashboards via Grafana + Prometheus
+
+---
+
+## 🏆 Career Highlights
 
 <div align="center">
 
 ```
- ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗      ██╗
- ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗    ███║
- ██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝    ╚██║
- ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗     ██║
- ██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║     ██║
- ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝     ╚═╝
-                  🎮  PRESS  START  🎮
+┌─────────────────────────────────────────────────────────────────┐
+│                    IMPACT AT A GLANCE                           │
+├─────────────────┬───────────────────────────────────────────────┤
+│  30%            │  Reduction in development cycle time          │
+│  35%            │  Reduction in deployment failures             │
+│  40%            │  Reduction in operational task time (Bash)    │
+│  7+ Years       │  Enterprise DevOps & Cloud experience         │
+│  5 Engineers    │  Team led at Orange Business Services         │
+└─────────────────┴───────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🎮 CHARACTER SHEET
+## 💼 Professional Journey
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<details>
+<summary><b>🟠 Orange Business Services — Sr. DevOps Engineer (Aug 2022 – Jan 2026)</b></summary>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  ⚔️  CHARACTER: Deepak Kumar                            ║
-║  🎯  CLASS:     DevOps Mage + Cloud Warrior + SRE Rogue ║
-║  🗺️  REGION:    Ireland 🇮🇪  [EU Auth'd]                ║
-║  💬  LANG:      English (Fluent) | Hindi (Native)        ║
-╠══════════════════════════════════════════════════════════╣
-║  📊  STATS                                               ║
-║                                                          ║
-║  STR  [Infrastructure] ████████████████████  MAX        ║
-║  INT  [Automation]     ████████████████████  MAX        ║
-║  DEX  [CI/CD Speed]    ██████████████████░░   90        ║
-║  DEF  [DevSecOps]      ████████████████████  MAX        ║
-║  WIS  [Cloud Arch]     ██████████████████░░   90        ║
-║  CHA  [Team Lead]      █████████████████░░░   85        ║
-║  LCK  [Uptime]         ████████████████████  MAX        ║
-╠══════════════════════════════════════════════════════════╣
-║  🏆  GUILD:     Orange Business Services [ACTIVE]       ║
-║  🔭  SIDE QUEST: AIOps + MLOps Unlocking...             ║
-║  💡  MOTTO:    "If it's not automated, it's a bug."     ║
-╚══════════════════════════════════════════════════════════╝
-```
+- Designed **zero-downtime CI/CD pipelines** for SecretsAAS, a global secrets management platform
+- **Led a team of 5 DevOps engineers**, delivering 30% faster development cycles
+- Embedded **DevSecOps** into every pipeline stage — security as code, not an afterthought
+- Automated infrastructure provisioning via **Terraform + Ansible** with full IaC test coverage
+- Built and deployed **Helm charts** across Kubernetes clusters on Rancher & private cloud
+- Implemented **HashiCorp Vault** for enterprise secrets management at Orange scale
+- Drove **Prometheus + Grafana** observability with proactive alerting and incident automation
+- Migrated legacy applications to **Flexible Engine & Cloud Avenue** (European private cloud)
 
-<br clear="right"/>
-
----
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-
-```
-╔══════╦═══════════════════════════════════════════════════╦═════════╗
-║  XP  ║  ACHIEVEMENT                                      ║ STATUS  ║
-╠══════╬═══════════════════════════════════════════════════╬═════════╣
-║ 5000 ║  🔥 THE PIPELINE MASTER — Zero-downtime CI/CD     ║   ✅    ║
-║ 4500 ║  🛡️  VAULT GUARDIAN — HashiCorp Vault Expert      ║   ✅    ║
-║ 4000 ║  ☸️  KUBE COMMANDER — K8s + Helm + Rancher        ║   ✅    ║
-║ 3500 ║  ⚡ THE AUTOMATOR — 40% toil eliminated           ║   ✅    ║
-║ 3000 ║  👥 SQUAD LEADER — Led 5-eng DevOps team          ║   ✅    ║
-║ 2500 ║  🚀 SPEED RUNNER — 30% faster delivery            ║   ✅    ║
-║ 2000 ║  🐛 BUG SLAYER — 35% fewer deploy failures        ║   ✅    ║
-║ 1500 ║  ☁️  CLOUD CERTIFIED — AWS SAA                    ║   ✅    ║
-║ 1000 ║  🏗️  TERRA FORMER — Terraform Associate           ║   ✅    ║
-║  500 ║  🧠 NEURAL UPGRADE — AIOps & MLOps               ║  🔄 WIP ║
-║  250 ║  🌐 PLATFORM LORD — Internal Dev Platforms        ║  🔄 WIP ║
-╚══════╩═══════════════════════════════════════════════════╩═════════╝
-```
-
-</div>
-
----
-
-## 📜 QUEST LOG — EXPERIENCE
-
-<details open>
-<summary>🟠 &nbsp;<b>[ACTIVE QUEST]</b> &nbsp; Orange Business Services &nbsp;·&nbsp; Sr. DevOps Engineer &nbsp;·&nbsp; Aug 2022 → NOW</summary>
-
-<br/>
-
-```
-QUEST: Secure the Cloud. Ship at speed. Leave no vuln behind.
-GUILD: Orange Business Services — Global Architecture Team
-ZONE:  European Enterprise Infrastructure
-```
-
-| ⚔️ QUEST OBJECTIVE | 🏆 REWARD |
-|---|---|
-| 🔐 Forge zero-downtime CI/CD for **SecretsAAS** | Test ↔ prod parity achieved. Zero outages. |
-| 👥 Command **5-warrior DevOps squad** | **+30% delivery speed** unlocked |
-| 🏗️ Cast **Terraform + Ansible** IaC spells | Full infrastructure reproduced on demand |
-| ☸️ Deploy **Helm** armadas on K8s + Rancher | Legacy slain. Cloud-native reigns. |
-| 🔑 Guard secrets with **HashiCorp Vault** | Zero credential breach across all pipelines |
-| 📊 Summon **Prometheus + Grafana** oracle | Incidents detected before they strike |
-| 🪵 Build **Kafka + ELK + S3** log fortress | All logs indexed, searchable, auditable |
-| ⚡ Script **Bash** automation spells | **+40% time** reclaimed from the grind |
-| 🛡️ Enchant pipelines: **Gitleaks + Trivy + SonarQube + Semgrep** | Every commit scanned. Security first. |
+🏅 *Flash Award — Best Performer of the Year*
 
 </details>
 
 <details>
-<summary>🔵 &nbsp;<b>[COMPLETED]</b> &nbsp; NEC Corporation India &nbsp;·&nbsp; Sr. DevOps Engineer &nbsp;·&nbsp; Sep 2021 → Aug 2022</summary>
+<summary><b>🔵 NEC Corporation India — Sr. DevOps Engineer (Sep 2021 – Aug 2022)</b></summary>
 
-<br/>
+- Managed production **Kubernetes clusters** via Rancher for Exastro and Cassiopeia projects
+- Deployed **Gitleaks, Trivy, SonarQube** for shift-left security in containerized environments
+- Reduced deployment failures by **35%** through cross-functional CI/CD standardization
+- Automated configuration management with **Ansible** across heterogeneous environments
 
-```
-QUEST: Automate the machines. Harden the perimeter.
-GUILD: NEC Corporation India
-ZONE:  Exastro & Cassiopeia Platforms
-```
-
-| ⚔️ OBJECTIVE | 🏆 REWARD |
-|---|---|
-| 🤝 Align cross-team CI/CD rituals | **-35%** deployment failures |
-| ☸️ Govern **Kubernetes + Rancher** realms | HA clusters. Zero downtime. |
-| 🛡️ Deploy scanner arsenal: **Gitleaks, Trivy, SonarQube** | Clean image pipeline certified |
-| 🤖 Automate config via **Ansible + GitLab CI** | Configuration drift: eliminated |
+🏅 *Champion Award — Outstanding Performer*
 
 </details>
 
 <details>
-<summary>🟢 &nbsp;<b>[COMPLETED]</b> &nbsp; Avis e Solution &nbsp;·&nbsp; System Engineer &nbsp;·&nbsp; Oct 2018 → Sep 2021</summary>
+<summary><b>⚙️ Avis e Solution — System Engineer (Oct 2018 – Sep 2021)</b></summary>
 
-<br/>
-
-```
-QUEST: Lay the foundation. Build from zero.
-GUILD: Avis e Solution
-ZONE:  NGUCC & Contaque Platforms
-```
-
-| ⚔️ OBJECTIVE | 🏆 REWARD |
-|---|---|
-| 🐧 Harden **Linux** server dungeons | Production-grade fortresses built |
-| 🔄 Forge **Jenkins CI/CD** from raw materials | Consistent, fast software delivery |
-| 🖥️ Master **VMware ESXi** virtualisation | Resource utilisation maximised |
+- Built **CI/CD pipelines with Jenkins** for NGUCC and Contaque projects
+- Configured and hardened **Linux servers** (CentOS, Ubuntu, RHEL) for production workloads
+- Managed **VMware ESXi** virtualization for resource optimization and scalability
 
 </details>
 
 ---
 
-## 🧰 INVENTORY — TECH ARSENAL
+## 📜 Certifications
 
 <div align="center">
 
-```
-╔══════════════════ 🎒 EQUIPPED GEAR ══════════════════╗
-```
-
-**[ ☁️ CLOUD & IaC — RARE TIER ]**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Consul](https://img.shields.io/badge/Consul-F24C53?style=flat-square&logo=consul&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-
-**[ 🐳 CONTAINERS — LEGENDARY TIER ]**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
-![Kaniko](https://img.shields.io/badge/Kaniko-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-**[ 🔄 CI/CD — EPIC TIER ]**
-
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-
-**[ 🔐 SECURITY — MYTHIC TIER ]**
-
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
-![Gitleaks](https://img.shields.io/badge/Gitleaks-FF2D20?style=flat-square&logo=git&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-20B2AA?style=flat-square)
-![Passbolt](https://img.shields.io/badge/Passbolt-3DBE29?style=flat-square)
-
-**[ 📊 OBSERVABILITY — EPIC TIER ]**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-
-**[ 💻 SCRIPTING — RARE TIER ]**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**[ 🐧 OS — UNCOMMON TIER ]**
-
-![Alpine](https://img.shields.io/badge/Alpine-0D597F?style=flat-square&logo=alpinelinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
-![RedHat](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
-
-**[ 🤝 AGILE — COMMON TIER ]**
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=mattermost&logoColor=white)
-![SAFe](https://img.shields.io/badge/SAFe-E32529?style=flat-square)
-![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=flat-square&logo=trello&logoColor=white)
-
-```
-╚══════════════════════════════════════════════════════╝
-```
+| Certification | Issuer | Domain |
+|:---|:---:|:---:|
+| ☁️ AWS Certified Solutions Architect | Amazon Web Services | Cloud |
+| 🏗️ HashiCorp Certified Terraform Associate | HashiCorp | IaC |
+| 🌐 Diploma in Hardware, Networking & Cloud | Jetking | Infrastructure |
 
 </div>
 
 ---
 
-## 🗺️ DUNGEONS CLEARED — PROJECTS
+## 🌍 Europe & Ireland — Ready to Contribute
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
-
-```
-┌──────────────────────────┐
-│  🔐 DUNGEON: SecretsAAS  │
-│  BOSS: Secret Sprawl     │
-│  GUILD: Orange Business  │
-│  DIFFICULTY: ⭐⭐⭐⭐⭐  │
-└──────────────────────────┘
-```
-
-Slayed secret mismanagement with **HashiCorp Vault**. Auto-provisions Vault envs per project. Hardened pipelines across ALL Orange entities worldwide.
-
-```
-LOOT DROPPED:
-🏆 Zero credential leaks
-🏆 Global pipeline secured
-🏆 Full audit trail
-```
-
-`Vault` `GitLab CI` `K8s` `DevSecOps`
-
-</td>
-<td align="center" width="33%" valign="top">
-
-```
-┌──────────────────────────┐
-│  ⚙️ DUNGEON: Exastro     │
-│  BOSS: Config Drift      │
-│  GUILD: NEC Corporation  │
-│  DIFFICULTY: ⭐⭐⭐⭐    │
-└──────────────────────────┘
-```
-
-Defeated config drift with IaC automation. Multi-layer security: access policies, enforcement, vuln scanning. System resilience ++
-
-```
-LOOT DROPPED:
-🏆 Config drift eliminated
-🏆 Security score maxed
-🏆 Error rate minimised
-```
-
-`Rancher` `K8s` `Ansible` `Trivy`
-
-</td>
-<td align="center" width="33%" valign="top">
-
-```
-┌──────────────────────────┐
-│  🔄 DUNGEON: NGUCC       │
-│  BOSS: Manual Releases   │
-│  GUILD: Avis e Solution  │
-│  DIFFICULTY: ⭐⭐⭐      │
-└──────────────────────────┘
-```
-
-Wiped out manual deployments with CI/CD built from scratch. Transformed team from stone-age releases to container-native delivery.
-
-```
-LOOT DROPPED:
-🏆 Jenkins mastery
-🏆 Docker containers
-🏆 Release speed 10x
-```
-
-`Jenkins` `Docker` `Git` `Python`
-
-</td>
-</tr>
-</table>
-</div>
+- 📍 **Based in Dublin, Ireland** — actively contributing to the Irish tech ecosystem
+- 🇪🇺 Hands-on experience with **European clients and GDPR-compliant infrastructure**
+- 🏦 Worked with Orange Business Services across European delivery teams
+- 🌐 Familiar with **EU data sovereignty**, private cloud mandates (Flexible Engine, Cloud Avenue)
+- 🤝 Strong cross-cultural collaboration experience across global distributed teams
 
 ---
 
-## 🎓 SKILL TREES UNLOCKED
+## 📚 Currently Exploring
 
-<div align="center">
-
+```python
+current_studies = {
+    "program": "MSc Artificial Intelligence @ Dublin Business School",
+    "focus": [
+        "Large Language Models (LLMs) & Prompt Engineering",
+        "Agentic AI & Multi-Agent Systems",
+        "Model Context Protocol (MCP) Servers",
+        "RAG Pipelines & Vector Databases",
+        "Graph AI & Knowledge Representation",
+        "Reinforcement Learning from Human Feedback (RLHF)",
+        "AI for MLOps & AIOps Convergence",
+        "Recommender Systems at Scale",
+        "Natural Language Processing (NLP)",
+        "Generative AI Application Development"
+    ],
+    "goal": "Bridge enterprise DevOps expertise with cutting-edge AI engineering"
+}
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║              📜 CERTIFICATES & EDUCATION TREE                       ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  [☁️ ] AWS Certified Solutions Architect .... Amazon Web Services   ║
-║         └─ UNLOCK: Deploy anything on AWS. No limits.               ║
-║                                                                      ║
-║  [🏗️ ] HashiCorp Terraform Associate ........ HashiCorp             ║
-║         └─ UNLOCK: Summon infra with code. IaC mastery.             ║
-║                                                                      ║
-║  [💻 ] Diploma — Hardware, Networking, Cloud  Jetking               ║
-║         └─ UNLOCK: Foundation layer. Hardware to hypervisor.        ║
-║                                                                      ║
-║  [🎓 ] MCA — Master of Computer Application .. AKTU University      ║
-║         └─ UNLOCK: Deep CS fundamentals. Core algorithms.           ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
-## 🏅 HALL OF FAME
+## 🛠️ Full Technical Arsenal
 
-<div align="center">
+<details>
+<summary><b>Click to expand complete skills matrix</b></summary>
 
-```
- ╔══════════════════════════════════════════════════════════════════╗
- ║                    🏆  HALL  OF  FAME  🏆                       ║
- ╠══════════════════════════════════════════════════════════════════╣
- ║                                                                  ║
- ║  ⚡ FLASH AWARD — MVP OF THE YEAR                               ║
- ║     Best Performer · Orange Business Services India             ║
- ║     [ ██████████████████████████ ] LEGENDARY                    ║
- ║                                                                  ║
- ║  🥇 CHAMPION AWARD — OUTSTANDING PERFORMER                      ║
- ║     NEC Corporation India                                        ║
- ║     [ ████████████████████████ ] EPIC                           ║
- ║                                                                  ║
- ║  🎖️  EXCELLENCE AWARD — ANIMATION                              ║
- ║     Delhi State Council of Women (DSCW)                         ║
- ║     [ ██████████████████ ] RARE                                 ║
- ║                                                                  ║
- ╚══════════════════════════════════════════════════════════════════╝
-```
+| Category | Technologies |
+|:---|:---|
+| **OS & Administration** | Alpine, CentOS, RHEL, Ubuntu |
+| **Agile & Collaboration** | Scrum, Kanban, SAFe, Jira, Confluence, Slack, Mattermost |
+| **Scripting & APIs** | Bash/Shell, Python, HCL, Postman |
+| **Version Control** | Git, GitLab, GitHub |
+| **CI/CD** | GitHub Actions, GitLab CI, Jenkins, Kaniko, Maven |
+| **Container Orchestration** | Docker, Kubernetes, Helm, Rancher, OpenShift |
+| **Secrets Management** | HashiCorp Vault, Passbolt, Consul |
+| **IaC** | Terraform, Ansible |
+| **Artifact Registries** | Docker Hub, GitLab Container Registry |
+| **Monitoring** | Prometheus, Grafana, ELK Stack, Kafka |
+| **Databases** | MySQL |
+| **Security & Quality** | Gitleaks, Trivy, SBOM, SonarQube, Semgrep, TestSSL |
+| **Cloud & Virtualization** | AWS, VMware ESXi, Flexible Engine, Cloud Avenue |
+| **AI/ML** | Python, TensorFlow, PyTorch, scikit-learn, LangChain, HuggingFace |
 
-</div>
+</details>
 
 ---
 
-## 🔭 SKILL TREE — NEXT LEVEL
-
 <div align="center">
 
-```
-                    🌳  UNLOCKING  NEXT  TIER  🌳
-   ═══════════════════════════════════════════════════════
+### 💬 Let's Connect
 
-   AIOps ................. ▓▓▓▓▓▓▓▓▓░░  70%  🔄 IN PROGRESS
-   MLOps ................. ▓▓▓▓▓▓▓░░░░  60%  🔄 IN PROGRESS
-   Platform Engineering .. ▓▓▓▓▓▓▓▓▓░░  80%  🔄 IN PROGRESS
-   OpenTelemetry ......... ▓▓▓▓▓░░░░░░  45%  🔍 EXPLORING
-   ArgoCD ................ ▓▓▓▓▓▓░░░░░  55%  🔍 EXPLORING
-   eBPF / Cilium ......... ▓▓▓░░░░░░░░  25%  📡 ON RADAR
-   Crossplane ............ ▓▓░░░░░░░░░  20%  📡 ON RADAR
+*I'm actively looking for roles at the intersection of **DevOps, MLOps, and AI Engineering** — particularly in Ireland and Europe.*
 
-   ═══════════════════════════════════════════════════════
-```
-
-</div>
-
----
-
-## 📊 GAME STATS
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=connect4deepak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ff2d55&icon_color=ff2d55&text_color=ffffff&ring_color=ff2d55"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connect4deepak&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff2d55&text_color=ffffff"/>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/connect4deepak)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=connect4deepak&theme=radical&hide_border=true&background=0d0d0d&ring=ff2d55&fire=ff9900&currStreakLabel=ff2d55&sideNums=ff2d55&currStreakNum=ffffff&dates=555555&sideLabels=ff2d55" />
+> *"The best infrastructure is the one you never have to think about — because it's automated, secured, and self-healing."*
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=connect4deepak&bg_color=0d0d0d&color=ff2d55&line=ff2d55&point=ffffff&area=true&area_color=ff2d5533&hide_border=true&custom_title=Commit+Activity+Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-```
-  ██████████████████████████████████████████████████████
-  █                                                    █
-  █   🎮  READY PLAYER ONE?  LET'S TEAM UP!  🎮       █
-  █                                                    █
-  █     Sr. DevOps · SRE · Cloud · Platform Eng       █
-  █     DevSecOps · AIOps · Open to Global 🌍          █
-  █                                                    █
-  ██████████████████████████████████████████████████████
-```
-
-[![LinkedIn](https://img.shields.io/badge/🎮_INSERT_COIN_TO_CONNECT-LinkedIn-ff2d55?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/connect4deepak)
-
-<br/>
-
-*`> "Reliability is not a feature — it's the final boss you never stop fighting." `*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&animation=twinkling&text=GAME+OVER+%3F+NAH.+PRESS+START+%F0%9F%8E%AE&fontSize=20&fontColor=ff2d55&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
