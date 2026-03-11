@@ -10,6 +10,18 @@
 [![Location](https://img.shields.io/badge/Dublin%2C_Ireland-%F0%9F%87%AE%F0%9F%87%AA-009A44?style=for-the-badge)](https://www.google.com/maps/place/Dublin,+Ireland)&nbsp;
 [![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Opportunities-FF6B35?style=for-the-badge)](https://linkedin.com/in/connect4deepak)
 
+<br/>
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=connect4deepak&theme=nord&column=7&margin-w=10&margin-h=10&no-bg=true)](https://github.com/connect4deepak)
+
+<br/>
+
+### 📜 Certifications
+[![AWS](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/certification/)&nbsp;
+[![Terraform](https://img.shields.io/badge/HashiCorp_Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.hashicorp.com/certification/terraform-associate)&nbsp;
+[![Jetking](https://img.shields.io/badge/Diploma_Hardware_%26_Networking-0057A8?style=for-the-badge&logo=cisco&logoColor=white)](https://www.jetking.com/)
+
 </div>
 
 <br/>
