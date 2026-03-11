@@ -13,8 +13,12 @@
 
 <br/>
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=connect4deepak&theme=darkhub&column=7&margin-w=8&margin-h=8&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/connect4deepak)
+### 📊 GitHub Stats
+
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=connect4deepak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connect4deepak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=connect4deepak&theme=tokyonight&hide_border=true)
 
 <br/>
 
