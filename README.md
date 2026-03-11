@@ -13,15 +13,6 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=connect4deepak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connect4deepak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=connect4deepak&theme=tokyonight&hide_border=true)
-
-<br/>
-
 ### 📜 Certifications
 [![AWS](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/certification/)&nbsp;
 [![Terraform](https://img.shields.io/badge/HashiCorp_Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.hashicorp.com/certification/terraform-associate)&nbsp;
@@ -269,6 +260,19 @@ current_studies = {
 | **AI/ML** | Python, TensorFlow, PyTorch, scikit-learn, LangChain, HuggingFace |
 
 </details>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=connect4deepak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connect4deepak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=connect4deepak&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
