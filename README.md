@@ -14,7 +14,7 @@
 <br/>
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=connect4deepak&theme=nord&column=7&margin-w=10&margin-h=10&no-bg=true)](https://github.com/connect4deepak)
+[![trophy](https://github-profile-trophy.vercel.app/?username=connect4deepak&theme=darkhub&column=7&margin-w=8&margin-h=8&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/connect4deepak)
 
 <br/>
 
